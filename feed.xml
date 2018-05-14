@@ -4,9 +4,9 @@
     <title>Casino Analytics Professional Cooperative: CAP-COOP</title>
     <description>  Casino Analytics Professional Cooperative (CAP-COOP) is an educational and networking community comprised of enthusiastic technology and analytic specialists employed in the casino gaming industry.
 </description>
-    <link>http://cap-coop.org/</link>
+    <link>http://casinoanalytics.org/</link>
      
-         <atom:link href="http://cap-coop.org/feed.xml" rel="self" type="application/rss+xml" />
+         <atom:link href="http://casinoanalytics.org/feed.xml" rel="self" type="application/rss+xml" />
     
     <pubDate>Mon, 14 May 2018 10:49:00 +0000</pubDate>
     <lastBuildDate>Mon, 14 May 2018 10:49:00 +0000</lastBuildDate>
@@ -20,8 +20,8 @@
 &amp;lt;p&amp;gt;What topics might we cover in the future? More in-depth Python subjects, SQL tutorials, machine learning introduction, overview of AWS services, discussion of graphing libraries (ggplot, matplotlib, plotly, etc), big-data tools (Hadoop, Spark Kafka), NoSQL and columnar databases. We also hope to cover real-world case studies of projects that members built, and collaborative problem-solving for projects still in progress.&amp;lt;/p&amp;gt;
 </description>
         <pubDate>2018-05-14 10:49:00 &#43;0000 UTC</pubDate>
-        <link>http://cap-coop.org/2018/05/14/first-meetup.html</link>
-        <guid isPermaLink="true">http://cap-coop.org/2018/05/14/first-meetup.html</guid>
+        <link>http://casinoanalytics.org/2018/05/14/first-meetup.html</link>
+        <guid isPermaLink="true">http://casinoanalytics.org/2018/05/14/first-meetup.html</guid>
       </item>
     
   </channel>

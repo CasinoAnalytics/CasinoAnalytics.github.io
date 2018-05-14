@@ -8,20 +8,20 @@
      
          <atom:link href="http://cap-coop.org/feed.xml" rel="self" type="application/rss+xml" />
     
-    <pubDate>Mon, 07 May 2018 14:47:00 +0000</pubDate>
-    <lastBuildDate>Mon, 07 May 2018 14:47:00 +0000</lastBuildDate>
+    <pubDate>Mon, 14 May 2018 10:47:00 +0000</pubDate>
+    <lastBuildDate>Mon, 14 May 2018 10:47:00 +0000</lastBuildDate>
     <generator>Hugo v0.40.2</generator>
     
     
       <item>
         <title>Plan for first meetup</title>
-        <description>&amp;lt;p&amp;gt;The first CAP-COOP Meetup is tentaviely scheduled for June 2018. Our first topic will be an introduction to Python and R for data analysis. If you&amp;amp;rsquo;re someone who relies primarily on Excel, or Tableau, or a BI tool like Cognos for most of your work, this will provide insight to the power of performing data analysis with these languages and hopefully provide some incentive to start learning. We&amp;amp;rsquo;d love to have a second speaker, if you have a topic to discuss or suggest, please reach out via Meetup.&amp;lt;/p&amp;gt;
+        <description>&amp;lt;p&amp;gt;The first CAP-COOP Meetup is tentatively scheduled for June 20, 2018. Our first topic will be an introduction to Python and R for data analysis. If you&amp;amp;rsquo;re someone who relies primarily on Excel, or Tableau, or a BI tool like Cognos for most of your work, this will provide insight to the power of performing data analysis with these languages and hopefully provide some incentive to start learning. We&amp;amp;rsquo;d love to have a second speaker, if you have a topic to discuss or suggest, please reach out via Meetup.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;What topics might we cover in the future? More in-depth Python subjects, SQL tutorials, machine learning introduction, overview of AWS services, discussion of graphing libraries (ggplot, matplotlib, plotly, etc), big-data tools (Hadoop, Spark Kafka), NoSQL and columnar databases. We also hope to cover real-world case studies of projects that members built, and collaborative problem-solving for projects still in progress.&amp;lt;/p&amp;gt;
 </description>
-        <pubDate>2018-05-07 14:47:00 &#43;0000 UTC</pubDate>
-        <link>http://cap-coop.org/2018/05/07/first-meetup.html</link>
-        <guid isPermaLink="true">http://cap-coop.org/2018/05/07/first-meetup.html</guid>
+        <pubDate>2018-05-14 10:47:00 &#43;0000 UTC</pubDate>
+        <link>http://cap-coop.org/2018/05/14/first-meetup.html</link>
+        <guid isPermaLink="true">http://cap-coop.org/2018/05/14/first-meetup.html</guid>
       </item>
     
   </channel>

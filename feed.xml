@@ -8,16 +8,41 @@
      
          <atom:link href="http://casinoanalytics.org/feed.xml" rel="self" type="application/rss+xml" />
     
-    <pubDate>Mon, 18 Jun 2018 14:31:00 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Jun 2018 14:31:00 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Jun 2018 23:19:00 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Jun 2018 23:19:00 +0000</lastBuildDate>
     <generator>Hugo v0.40.2</generator>
     
     
       <item>
-        <title>Presentations from June 20, 2018 Meetup</title>
+        <title>Wrap-up of June 20, 2018 Meetup</title>
+        <description>&amp;lt;p&amp;gt;What a terrific kickoff event! I want to thank the 35 or so attendees for their interaction and some great questions during the presentations and great follow-up afterwards. Thanks to Switch for providing a fantastic room (with very easy AV setup). Big thanks for everyone who told someone else about the event or brought someone along, word-of-mouth is our best (and only) marketing tool!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;There were 3 presentations:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;an introduction to the Python and R languages, for people who are heavy Excel users&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;a live coding session in Python where we calculated the concentration of the customer base that generates the bulk of revenue (i.e. the &amp;lt;sup&amp;gt;80&amp;lt;/sup&amp;gt;&amp;amp;frasl;&amp;lt;sub&amp;gt;20&amp;lt;/sub&amp;gt; rule)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;a short summary of the reasons for starting the group and goals going forward&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;The slide decks and the code for 3 presentations are available in the &amp;lt;a href=&amp;#34;http://casinoanalytics.org/2018/06/18/presentations-20180620.html&amp;#34;&amp;gt;previous post&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We also heard some a little about how casinos measure players&amp;amp;rsquo; theoretical win for table games (as opposed to slots which calculate it automatically), about how video poker machines are often not configured to credit profitable players with an appropriate amount of contribution, and a few past casino promotions and sportsbook odds gone wrong.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The Meetup page for this event is &amp;lt;a href=&amp;#34;https://www.meetup.com/Casino-Analytics/events/250643391/&amp;#34;&amp;gt;here&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This really was a great first event, glad we got so many people with a variety of backgrounds and experience. Thanks to everyone who offered feedback. Please reach out if you have ideas for a future presentation!&amp;lt;/p&amp;gt;
+</description>
+        <pubDate>2018-06-20 23:19:00 &#43;0000 UTC</pubDate>
+        <link>http://casinoanalytics.org/2018/06/20/wrapup-20180620.html</link>
+        <guid isPermaLink="true">http://casinoanalytics.org/2018/06/20/wrapup-20180620.html</guid>
+      </item>
+    
+      <item>
+        <title>Presentations for June 20, 2018 Meetup</title>
         <description>
 
-&amp;lt;p&amp;gt;Links to the presentations from the June 20, 2018 Meetup, held at InNEVation Center, Powered by Switch.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Links to the talks that will be presented at the June 20, 2018 Meetup, held at InNEVation Center, Powered by Switch.&amp;lt;/p&amp;gt;
 
 &amp;lt;h2 id=&amp;#34;1st-presentation-documents-presentations-revealjs-excel-python-r-html-python-and-r-for-excel-pros&amp;#34;&amp;gt;&amp;lt;a href=&amp;#34;/documents/presentations/revealjs/excel_python_r.html&amp;#34;&amp;gt;1st presentation&amp;lt;/a&amp;gt; Python and R for Excel Pros&amp;lt;/h2&amp;gt;
 
@@ -33,12 +58,12 @@
       </item>
     
       <item>
-        <title>First Meetup will be at Innevation Center</title>
-        <description>&amp;lt;p&amp;gt;Previously, we had announced the first Meetup would be on June 20, but weren&amp;amp;rsquo;t sure where. We are happy to say that the &amp;lt;a href=&amp;#34;https://www.innevation.com/&amp;#34;&amp;gt;Innevation Center, Powered by Switch&amp;lt;/a&amp;gt; has agreed to host us (no spelling error, &amp;amp;ldquo;nev&amp;amp;rdquo; as in Nevada). The agenda will remain the same: an intro to the group and an introduction to Python and R for data analysis, especially for Excel users.&amp;lt;/p&amp;gt;
+        <title>June 20 Meetup will be at Innevation Center</title>
+        <description>&amp;lt;p&amp;gt;Previously, we had announced the first Meetup would be on June 20, but weren&amp;amp;rsquo;t sure where. We are happy to say that the &amp;lt;a href=&amp;#34;https://www.innevation.com/&amp;#34;&amp;gt;InNEVation Center, Powered by Switch&amp;lt;/a&amp;gt; has agreed to host us. The agenda will remain the same: an intro to the group and an introduction to Python and R for data analysis, especially for Excel users.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;We&amp;amp;rsquo;ll start at 6:30, and there will be free food. There is no charge to attend, or reservations required, so we hope you&amp;amp;rsquo;ll bring a colleague along.&amp;lt;/p&amp;gt;
 
-&amp;lt;p&amp;gt;The Innevation Center is located off the 215 &amp;lt;a href=&amp;#34;https://www.google.com/maps/place/The&#43;Innevation&#43;Center/@36.0665333,-115.2192654,15.75z/data=!4m5!3m4!1s0x0:0x4f1c35e8f68b2e74!8m2!3d36.0666193!4d-115.2136257&amp;#34;&amp;gt;between Decatur and Jones&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The InNEVation Center is located off the 215 &amp;lt;a href=&amp;#34;https://www.google.com/maps/place/The&#43;Innevation&#43;Center/@36.0665333,-115.2192654,15.75z/data=!4m5!3m4!1s0x0:0x4f1c35e8f68b2e74!8m2!3d36.0666193!4d-115.2136257&amp;#34;&amp;gt;between Decatur and Jones&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
 </description>
         <pubDate>2018-06-16 15:46:00 &#43;0000 UTC</pubDate>
         <link>http://casinoanalytics.org/2018/06/16/first-meetup-location.html</link>
